@@ -1,5 +1,4 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<yml_catalog date="2017-06-29 11:24">
+<yml_catalog date="2017-06-29 12:31">
 <shop>
 <name>ООО "ТЕРМОС РУС"</name>
 <company>ООО "ТЕРМОС РУС"</company>
